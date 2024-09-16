@@ -48,27 +48,7 @@ WHERE person.id = 14887 OR person.id = 16371;
  ![image](https://github.com/user-attachments/assets/9765649f-b0a4-4eac-bd0a-598488a32296)
 
 
- - Furthermore to identigy real culprit
-
-    ```
-    SELECT person.name, interview.transcript
-    FROM person JOIN interview
-    ON person.id = interview.person_id
-    WHERE person.id = 67318 
-    ```
-
-   ![image](https://github.com/user-attachments/assets/190ddff0-595b-4dcb-a754-2725a6b23154)
-
-
--
-    ```
-    SELECT * FROM drivers_license
-    WHERE car_make = 'Tesla'
-    AND car_model = 'Model S'
-    AND hair_color = 'red'
-    AND height <= 67;
-    ```
-- ![image](https://github.com/user-attachments/assets/9aa4582e-a5a4-42ce-b138-9969e0e9419a)
+ 
 
   
 
