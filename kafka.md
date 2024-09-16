@@ -31,3 +31,9 @@
 ```
 
 ![image](https://github.com/user-attachments/assets/955a52ae-1d69-4bc1-a8f5-80a7e0805df2)
+
+
+## RESOURCES USED
+
+- [Apache Kafka Crash Course](https://www.youtube.com/watch?v=ZJJHm_bd9Zo)
+- [How to send Kafka message from command line](https://www.youtube.com/watch?v=cbAAMFjIaSw&list=PLA3GkZPtsafbAjKYkhWnD6GdhRtm6JrD1&index=4)
